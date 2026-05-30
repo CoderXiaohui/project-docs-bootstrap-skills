@@ -1,6 +1,6 @@
 # Project Docs Bootstrap
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.en-US.md) | [简体中文](README.md)
 
 > 一个用于初始化项目协作文档、项目上下文和大模型变更记录的 Codex Skill。
 
