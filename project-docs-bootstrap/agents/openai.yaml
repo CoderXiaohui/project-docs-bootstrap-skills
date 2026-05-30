@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Docs Bootstrap"
+  short_description: "Bootstrap reusable project docs and hooks"
+  default_prompt: "Use $project-docs-bootstrap to create reusable project onboarding docs and change-log hooks for this repository."
